@@ -1,6 +1,6 @@
 function StaffMember(name,discountPercent){
     this.name = name;
-    this.discountPercent = discountPercent;
+    this.discountPercent = discountPercent ;
 }
 
 var sally = new StaffMember("Sally",5);
