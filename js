@@ -3,7 +3,7 @@ function StaffMember(name,discountPercent){
     this.discountPercent = discountPercent ;
 }
 
-var sally = new StaffMember("Sally",5);
+var sally = new StaffMember("Sue",5);
 var bob = new StaffMember("Bob",10);
 var eric = new StaffMember("Eric",23);
 
