@@ -5,7 +5,7 @@ function StaffMember(name,discountPercent){
 
 var sally = new StaffMember("Sue",5);
 var bob = new StaffMember("Bob",10);
-var eric = new StaffMember("Eric",23);
+var eric = new StaffMember("Eric",25);
 
 // Create yourself again as 'me' with a staff discount of 20%
 var me = new StaffMember("Eric",20);
